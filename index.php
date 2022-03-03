@@ -1,5 +1,5 @@
 <?php 
-
+echo "Just another test";
 require_once "lib/init.php";
 $login=new login;
  
